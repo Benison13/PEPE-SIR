@@ -1,6 +1,6 @@
-// Script by Pepe
+// Script by Benison sir
 // 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
-// ©Pepe Bot 
+// ©Benison13  
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -1649,7 +1649,7 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 			num = await fetchJson(`https://api.telnyx.com/anonymous/v2/number_lookup/${senderNumber}`, {method: 'get'})
        menu = `
 ╭──────────────────╮
-      ✪ɪͥᴛͭsᷤᴍͫᴇͤ☚⃟ᎮᏋᎮᏋ ՏIᖇ
+      BENISON BOT
 ╭──────────────────╯
 │
 │   ʜᴇʏ ᴜsᴇʀ @${sender.split("@")[0]} 
@@ -1670,10 +1670,10 @@ if (!isRegistered) return sendButMessage (from, daftar1, daftar2, daftar3, { quo
 │
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
 │      ▎▍▌▌▉▏▎▌▉▐▏▌▎
-│        ©917736622139
+│        ©919656928160
 │
 │  ❑ *ɢɪᴛʜᴜʙ ʟɪɴᴋ* :
-│  https://github.com/pepesir/PEPE-SIR
+│  https://github.com/Benison13/PEPE-SIR
 │  
 │  ❑ *ʏᴏᴜᴛᴜʙᴇ ʟɪɴᴋ* :
 │  https://tinyurl.com/yhbgcc33
@@ -1692,9 +1692,9 @@ sendButLocation(from, `${menu}`,`𝚊𝚗𝚢 𝚍𝚘𝚞𝚋𝚝𝚜 , 𝚌�
 
 break
 case 'credit':
-   dtod = '917736622139'
-   dtod1 = '917736622139'
-   dtod2 = '917736622139'
+   dtod = '919656928160'
+   dtod1 = '919656928160'
+   dtod2 = '919656928160'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
